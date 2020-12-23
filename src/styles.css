@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  padding: 1.5em;
+  margin-bottom: 2em;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+h3 {
+  border: solid black 1px;
+  border-radius: 0.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-left: 8em;
+  margin-right: 8em;
+}
+
+.ready {
+  background-color: burlywood;
+  color: whitesmoke;
+}
+
+.burnt {
+  color: whitesmoke;
+  background-color: black;
+}
